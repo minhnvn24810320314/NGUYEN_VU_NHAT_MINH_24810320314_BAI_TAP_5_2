@@ -3,7 +3,7 @@
 ## THÔNG TIN SINH VIÊN
 - **Họ và tên:** Nguyễn Vũ Nhật Minh
 - **Mã số sinh viên:** 24810320314
-- **Lớp:** [Điền tên lớp của bạn]
+- **Lớp:** D19QTANM1
 - **Tên môn học:** Lập trình C# / Windows Forms
 - **Tên bài tập:** BÀI 5.2: Bảng tính tiền dịch vụ và chiết khấu đơn hàng (ListBox & ComboBox)
 
@@ -17,7 +17,7 @@
 ### 2. Ảnh màn hình Chức năng thực thi / Kết quả
 ![Thực thi chức năng](./screenshots/kq_thuc_thi.png)
 
-### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
+### 3. Ảnh màn hình Kiểm tra lỗi
 ![Kiểm tra lỗi](./screenshots/kt_loi.png)
 
 ---
